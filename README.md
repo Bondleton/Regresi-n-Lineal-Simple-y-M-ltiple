@@ -1,2 +1,2 @@
-# Regresi-n-Lineal-Simple-y-M-ltiple
+# Regresion Lineal Simple y Multiple
 Regresión Lineal Simple y Múltiple | Inteligencia de Negocios
